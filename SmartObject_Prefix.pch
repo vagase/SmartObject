@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Test31' target in the 'Test31' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
